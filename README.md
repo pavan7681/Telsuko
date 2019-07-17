@@ -1,0 +1,2 @@
+# Telsuko
+java  standard edition
